@@ -1,4 +1,6 @@
-## Profile
+## Welcome to Allyne's GitHub Page
+
+### Profile
 
 I am a PhD research fellow advised by Prof. Sigurd Skogestad, Ass. Prof. Johannes Jäschke at the Department of Chemical Engineering, NTNU. I am currently working on Modelling, Optimization, and Control of Recirculating Aquaculture Systems (RAS).
 
