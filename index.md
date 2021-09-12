@@ -24,3 +24,7 @@ My interests include:
     * Matlab
 
 For more information, [check my LinkedIn profile](https://www.linkedin.com/in/allyne-dos-santos).
+
+### Something I've done before:
+[My own NTNU webpage](https://folk.ntnu.no/allyned/).
+
