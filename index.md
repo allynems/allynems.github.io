@@ -25,9 +25,9 @@ My interests include:
 
 For more information, [check my LinkedIn profile](https://www.linkedin.com/in/allyne-dos-santos).
 
-### Something I've done before:
+### Something I've done before...
 [My own NTNU webpage](https://folk.ntnu.no/allyned/).
 
-### Something I just started to work on during my spare time:
+### Something I just started to work on during my spare time...
 [Microsoft Azure certification](https://docs.microsoft.com/en-us/users/allyne-dos-santos)
 
