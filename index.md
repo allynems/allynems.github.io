@@ -23,4 +23,4 @@ My interests include:
     * Python
     * Matlab
 
-For more information, [check my LinkedIn profile].(https://www.linkedin.com/in/allyne-dos-santos)
+For more information, [check my LinkedIn profile](https://www.linkedin.com/in/allyne-dos-santos).
