@@ -23,7 +23,7 @@ My interests include:
     * Python
     * Matlab
 
-For more information, [see my LinkedIn profile](https://www.linkedin.com/in/allyne-dos-santos) or <a href="allynems.github.io/folder/CV_resume_allyne_PORT.pdf" target="_blank">my CV in portuguese.</a>
+For more information, [see my LinkedIn profile](https://www.linkedin.com/in/allyne-dos-santos) or <a href="allynems.github.io/CVs/CV_resume_allyne_PORT.pdf" target="_blank">my CV in portuguese.</a>
 
 ### Something I've done before...
 [My own NTNU webpage](https://folk.ntnu.no/allyned/)
