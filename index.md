@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
-filename: index.md
+filename: index
+layout: page
 --- 
 
 ## Welcome to Allyne's GitHub Page
