@@ -1,3 +1,9 @@
+---
+title: Welcome to Allyne's GitHub Page
+layout: jekyll-theme-cayman
+filename: index
+--- 
+
 ## Welcome to Allyne's GitHub Page
 
 ### Profile
