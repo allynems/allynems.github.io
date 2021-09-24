@@ -16,7 +16,8 @@ creative-commons:
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+[permalinks]
+  post = "/:filename/"
 markdown:    kramdown
 highlighter: rouge
 plugins:
@@ -30,5 +31,20 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+  
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Presentations"
+    url = "/presentations/"
+    weight = 2
+  [[menu.nav]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
 
   
