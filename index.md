@@ -1,7 +1,6 @@
 ---
 title: "Welcome"
 filename: index
-layout: page
 --- 
 
 ## Welcome to Allyne's GitHub Page
