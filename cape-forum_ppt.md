@@ -1,6 +1,5 @@
 ---
 title: Cape Forum
-layout: template
 description: My presentation slides on CAPE Forum
 filename: cape-forum_ppt.md
 --- 
