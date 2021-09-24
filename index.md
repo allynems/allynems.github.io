@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-layout: post
+layout: page
 filename: index
 --- 
 
