@@ -1,3 +1,13 @@
 theme: jekyll-theme-cayman
 title: Allyne's GitHub homepage
 description: "It's never too late to learn something new :)"
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
