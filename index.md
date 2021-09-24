@@ -1,6 +1,6 @@
 ---
 title: Welcome to Allyne's GitHub Page
-layout: jekyll-theme-cayman
+layout: default
 filename: index
 --- 
 
