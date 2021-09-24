@@ -26,6 +26,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-menus
   
 kramdown:
   auto_ids: true
@@ -34,5 +35,4 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-{% include: navigation.html}
   
