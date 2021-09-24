@@ -1,5 +1,6 @@
 ---
 title: Contact
+layout: default
 ---
 
 + [LinkedIn profile](https://www.linkedin.com/in/allyne-dos-santos)
