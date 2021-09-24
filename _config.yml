@@ -34,5 +34,5 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-include: navigation.html
+include: /_include/navigation.html
   
