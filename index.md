@@ -1,10 +1,8 @@
 ---
-title: "Welcome"
+title: "Welcome to Allyne's GitHub Page"
 layout: default
 filename: index
 --- 
-
-## Welcome to Allyne's GitHub Page
 
 ### Profile
 
