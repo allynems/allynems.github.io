@@ -1,6 +1,5 @@
 ---
 title: "Welcome"
-layout: page
 filename: index
 --- 
 
