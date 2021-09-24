@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Allyne's GitHub Page"
+title: "Welcome"
 layout: default
 filename: index
 --- 
