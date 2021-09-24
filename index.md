@@ -38,3 +38,6 @@ For more information, [see my LinkedIn profile](https://www.linkedin.com/in/ally
 ### Something I just started to work on...
 [Microsoft Azure certification](https://docs.microsoft.com/en-us/users/allyne-dos-santos)
 
+### Presentations:
+[Cape Forum](cape-forum_ppt.md)
+
