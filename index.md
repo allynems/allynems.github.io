@@ -40,5 +40,5 @@ For more information, [see my LinkedIn profile](https://www.linkedin.com/in/ally
 ### Presentations:
 [Cape Forum](cape-forum_ppt.md)
 
-[Numerical Optimal Control course](nmpc.md)
+
 
