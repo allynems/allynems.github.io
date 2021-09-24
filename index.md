@@ -1,6 +1,6 @@
 ---
-title: Welcome
-layout: default
+title: "Welcome"
+layout: post
 filename: index
 --- 
 
