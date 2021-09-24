@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-menus: header
+layout: default
 filename: index
 --- 
 
