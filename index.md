@@ -22,7 +22,7 @@ My interests include:
 * Process control and optimization
     * PID
     * NMPC
-    * ENMPC
+    * E-NMPC
 * Programming
     * Python
     * Matlab
@@ -30,10 +30,11 @@ My interests include:
 
 ### Something I've done before...
 [My own NTNU webpage](https://folk.ntnu.no/allyned/)
+[Python & MySQL course certificate](https://www.udemy.com/certificate/UC-6ec3da69-c577-4206-b889-48d7ce5741d8/)
 
 
 ### Something I just started to work on...
-[Microsoft Azure certification](https://docs.microsoft.com/en-us/users/allyne-dos-santos)
+[SAS programming course](https://www.sas.com/en_us/home.html)
 
 
 
