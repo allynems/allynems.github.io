@@ -20,7 +20,7 @@ title: Curriculum Vitae
 
 ## Current project tools:
 
-<img src="img/python-logo-master-v3-TM.png" alt="" class="inline"/>
-<img src="img/Git-Logo-2Color.png" alt="" class="inline"/>
-<img src="img/LaTeX_logo.svg.png" alt="" class="inline"/>
-<img src="img/vscode.png" alt="" class="inline"/>
+<img src="img/python-logo-master-v3-TM.png" alt="hi" class="inline"/>
+<img src="img/Git-Logo-2Color.png" alt="hi" class="inline"/>
+<img src="img/LaTeX_logo.svg.png" alt="hi" class="inline"/>
+<img src="img/vscode.png" alt="hi" class="inline"/>
