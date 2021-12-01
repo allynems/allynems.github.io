@@ -20,4 +20,5 @@ title: Curriculum Vitae
 
 ## Current project tools:
 
-<img src="img/python-logo-master-v3-TM.png" alt="" width="200" class="inline"/> &nbsp; &nbsp; <img src="img/Git-Logo-2Color.png" alt="" width="200" class="inline"/> &nbsp; &nbsp; <img src="img/LaTeX_logo.svg.png" alt="" width="200" class="inline"/> &nbsp; &nbsp; <img src="img/vscode.png" alt="" width="60" class="inline"/> Visual Studio Code
+<img src="img/python-logo-master-v3-TM.png" alt="" width="200" class="inline"/> &nbsp; &nbsp; <img src="img/Git-Logo-2Color.png" alt="" width="200" class="inline"/> &nbsp; &nbsp; <img src="img/LaTeX_logo.svg.png" alt="" width="200" class="inline"/> &nbsp; &nbsp; <img src="img/vscode.png" alt="" width="60" class="inline"/> 
+(The last logo refers to Visual Studio Code.)
