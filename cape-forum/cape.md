@@ -3,7 +3,7 @@ title: CAPE Forum 2020
 layout: default
 ---
 
-[Abstract:](cape-forum/dos-Santos.pdf)
+[Abstract:](dos-Santos.pdf)
 
 *Surrogate optimization is the approximation of an objective function, in this work the steady-state cost gradient, with a suitable function approximator to use in process optimization. This model is used in the attempt to reach an optimum, which means that the estimated gradient must be driven into zero. The closed-loop surrogate optimization can be executed by estimating the gradient from available measurements (Krishnamoorthy, 2019). The surrogate model for the gradient needs to have good online performance (i.e. achieve fast convergence), account for uncertainty and do not diverge nor have an offset when the system goes out of domain region used for training. This work consists of a study on the trade-off between using a simple, but not as accurate, surrogate model and using more complicated machine learning techniques when it comes to closed-loop surrogate optimizer from available measurements of a nonlinear system.*
 
