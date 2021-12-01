@@ -12,5 +12,5 @@ layout: default
 *In this work, we estimate the gradient of a heat exchanger network (Jäschke and Skogestad, 2014) using different types of methods and compare them in online closed-loop performance. The case study presents nonlinear behavior, in the presence of disturbance and noise. The example was approached in four scenarios, that differs on which disturbances have its measurement available. The methods used in this work were principal component regression (PCR), partial least square regression (PLSR) and support vector regression. As the example is nonlinear, prior knowledge was manually inserted beforehand in the inputs of PCR and PLSR models as nonlinear transformations between available measurements and compared with the plain linear models.*
 
 
-<a href="https://github.com/allynems/allynems.github.io/tree/main/cape-forum/code" class="link">Click here to see how the project was executed.</a>
+<a href="https://github.com/allynems/allynems.github.io/tree/main/cape-forum/code" class="link">Click here</a> to see how the project was executed.
 
