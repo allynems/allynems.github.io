@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-+ In English
++ [In English](/CVs/CV_resume_allyne_ENG.pdf)
 + [In Portuguese](/CVs/CV_resume_allyne_PORT.pdf)
 
 # Course Certificates
