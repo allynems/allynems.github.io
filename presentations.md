@@ -12,6 +12,6 @@ layout: default
 Future poster/presentations:
 + [Escape Conference 2022](Presentations/2022_Escape_32/) (June 2022)
   - Poster
-    -[Audio](Presentations/2022_Escape_32/audio/poster_audio.m4a)
+    - [Audio](Presentations/2022_Escape_32/audio/poster_audio.m4a)
 
 + DYCOPS 2022 (June 2022)
