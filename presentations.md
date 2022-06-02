@@ -13,10 +13,10 @@ layout: default
   - No Copyright
   - Presentation
 
-+ [Escape Conference 2022](Presentations/2022_Escape_32/) (in Toulouse, France)
++ Escape Conference 2022 (in Toulouse, France)
   - Poster
     - [Audio](Presentations/2022_Escape_32/audio/poster_audio.m4a)
     - [PDF file](Presentations/2022_Escape_32/pdf_files/Poster_ESCAPE32_Allyne_M_dos_Santos.pdf)
 
-+ [DYCOPS 2022](Presentations/2022_DYCOPS/) - online
++ DYCOPS 2022 - online
   - Presentation
