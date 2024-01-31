@@ -27,8 +27,7 @@ My interests include:
     * Python
     * Matlab
 
-### Something I've done before...
-[My own NTNU webpage](https://folk.ntnu.no/allyned/)
+
 
 <!--
 ### Something I just started to work on...
