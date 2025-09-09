@@ -6,15 +6,14 @@ filename: index
 
 ### Profile
 
-I am a PhD research fellow advised by Prof. Sigurd Skogestad, Prof. Johannes Jäschke and Ass. Prof. Kari J.K. Attramadal at the Department of Chemical Engineering, NTNU. I am currently working on Modelling, Optimization, and Control of Recirculating Aquaculture Systems (RAS).
+As a certified and experienced Product Owner, I had contributed to the development and deployment of digital solutions, including OFFA (Optimal and Flexible Field Architecture), an evolutionary algorithm to fast screening of concepts to the offshore industry in a commercial software. With over a year of experience in this role, I leveraged expertise in requirements definition, backlog management, communication between quality, development and product specification teams, and retrospectives to align product outcomes with client needs.  
 
-Bachelor of Science in Chemical Engineering at Federal University of Rio de Janeiro (UFRJ-2016) and Master of Science in Chemical Engineering at COPPE/UFRJ (UFRJ-2019).  I completed my bachelor's project and master's thesis under the supervision of Argimiro R. Secchi. My most recent position was as an external researcher at NTNU funded by International Partnerships for Excellence Education, Research and Innovation (INTPART). I applied a gray-box identification method in an oil production system with two gas-lift wells. 
+My background includes a Ph.D. in Chemical Engineering and extensive research experience, which I integrate into my work to bridge technical knowledge with product innovation. Certified as a Scrum Product Owner®, I am committed to fostering collaboration and delivering impactful digital tools for the final clients (main users).
+
+Before that, I was a Researcher at ISI B&F - SENAI Cetiqt. I participated on a project which aimed to create a digital twin of a Multiple-effect evaporator using Aspen plus, in collaboration with the company Eldorado Brasil.
 
 My interests include:
 
-* System identification
-    * Data-driven models
-    * Hybrid models
 * Data analysis
     * Data visualization
     * Data cleaning
@@ -26,6 +25,7 @@ My interests include:
 * Programming
     * Python
     * Matlab
+    * C++
 
 
 
