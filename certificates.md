@@ -1,5 +1,6 @@
 ---
 title: Certificates
+layout: default
 ---
 
 + [Scrum Product Owner certificate](/CVs/Allyne Machado dos Santos-ScrumAlliance_CSPO_Certificate.pdf)
